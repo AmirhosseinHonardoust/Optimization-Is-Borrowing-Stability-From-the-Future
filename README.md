@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Mode-Theory--First_Essay-90A4AE?style=for-the-badge" />
 
 </p>
- 
+  
 We talk about optimization as if it’s always a good thing.
 
 We optimize schedules, teams, logistics, prices, models, batteries.
